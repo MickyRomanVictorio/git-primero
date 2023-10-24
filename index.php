@@ -10,6 +10,8 @@
    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati quia laborum eos, adipisci ducimus alias magni minima nulla quis laudantium facilis atque, perferendis quaerat pariatur recusandae omnis laboriosam? Rerum, dolorum!</p>
    <div>
       <img src="images/descarga.png" alt="descargar">
+      <h2>ir a pagina</h2><br>
+      <a href="">ir</a>
    </div>
 </body>
 </html>
