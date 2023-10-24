@@ -11,7 +11,7 @@
    <div>
       <img src="images/descarga.png" alt="descargar">
       <h2>ir a pagina</h2><br>
-      <a href="">ir</a>
+      <a href="pages/equipo.html">ir</a>
    </div>
 </body>
 </html>
