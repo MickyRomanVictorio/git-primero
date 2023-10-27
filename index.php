@@ -13,6 +13,10 @@
       <h2>ir a pagina</h2><br>
       <a href="pages/equipo.html">ir</a><br>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita aspernatur culpa atque. Reiciendis mollitia, impedit nemo ab nesciunt repudiandae maxime. Ducimus odio nisi reprehenderit eius mollitia tenetur nesciunt ab doloribus.</p>
+
+      <section>
+         <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Asperiores quisquam a sed laborum! Ipsum, porro obcaecati! Nam sequi aliquam mollitia animi, repudiandae impedit natus? Alias voluptate voluptates laudantium quisquam exercitationem?</p>
+      </section>
    </div>
 </body>
 </html>
