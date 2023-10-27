@@ -4,4 +4,5 @@ Bienvenidos a git
 - instalar git
 - crear un repositorio
 - trabajo de grupos
+- ramas 
 - ...mas
