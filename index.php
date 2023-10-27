@@ -11,7 +11,8 @@
    <div>
       <img src="images/descarga.png" alt="descargar">
       <h2>ir a pagina</h2><br>
-      <a href="pages/equipo.html">ir</a>
+      <a href="pages/equipo.html">ir</a><br>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita aspernatur culpa atque. Reiciendis mollitia, impedit nemo ab nesciunt repudiandae maxime. Ducimus odio nisi reprehenderit eius mollitia tenetur nesciunt ab doloribus.</p>
    </div>
 </body>
 </html>
