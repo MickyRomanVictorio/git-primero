@@ -27,6 +27,10 @@
          <h1>agregar</h1>
          <p>rama de desarrollo</p>
       </div>
+
+      <div class="ramas">
+         <p>todo esto es para la nueva rama</p>
+      </div>
       
    </div>
 </body>
